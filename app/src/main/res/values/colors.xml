@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="icon_remove">#FF0000</color>
+    <color name="root_background">#FF0000</color>
+    <color name="my_red">#FF0000</color>
+    <color name="colortext">#FF03DAC5</color>
+
+    <color name="text_color">#1E4175</color>
+    <color name="background_color">#ecf0f3</color>
+    <color name="highlight">#ffffff</color>
+    <color name="shadow_color">#d9dbde</color>
+</resources>
